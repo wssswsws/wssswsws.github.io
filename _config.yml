@@ -23,7 +23,7 @@ repository               : "wssswsws/wssswsws.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           :
+  avatar           : "photo-clean.jpg"
   name             : "Steve Wang"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate student"
