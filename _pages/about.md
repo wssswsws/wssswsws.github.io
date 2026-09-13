@@ -41,7 +41,6 @@ Contributed to early versions of an iMessage-based career assistant, including p
 A few things I've worked on:
 
 - **Ed Assistant** — A browser extension for asking questions about course discussions and catching up on unread posts, with retrieval-backed answers and source citations.
-- **Reddit Discourse Modeling** — An experiment in fine-tuning Qwen3-8B with QLoRA to explore the writing patterns of the Penn Reddit community.
 - **Cocktail Recipe Explorer** — A recipe browser with ingredient and equipment filters, alongside an optimization experiment on covering more recipes with a small ingredient collection.
 - **SwapMySwipe** — A backend prototype for a campus meal-swipe marketplace, with order matching, partial fills, and transaction coordination.
 

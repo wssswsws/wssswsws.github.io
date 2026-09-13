@@ -11,10 +11,6 @@ A collection of software projects, research experiments, and tools for everyday 
 
 A browser extension for asking questions about Ed Discussion threads and catching up on unread course posts. It combines keyword and vector retrieval with answers that cite the underlying discussions.
 
-## Reddit Discourse Modeling
-
-An experiment in learning the language patterns of a university community through QLoRA fine-tuning of Qwen3-8B. The project includes data preparation, training, evaluation, and a small interactive demo.
-
 ## Cocktail Recipe Explorer
 
 A local recipe browser built around TheCocktailDB data, with searches in English and Chinese, ingredient and equipment filters, and recipe-specific substitutions.
