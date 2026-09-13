@@ -320,7 +320,13 @@
   }
 
   .author__email {
+    display: flex;
+    align-items: baseline;
     white-space: normal;
+
+    > i {
+      flex: 0 0 auto;
+    }
   }
 
   a:hover {
