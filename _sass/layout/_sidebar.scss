@@ -307,14 +307,8 @@
     white-space: nowrap;
   }
 
+  a,
   .author__email {
-    white-space: normal;
-    margin-bottom: 5px;
-    padding: 2px 5px 2px 0;
-    font-size: $type-size-5;
-  }
-
-  a {
     display: block;
     margin-bottom: 5px;
     padding-right: 5px;
@@ -323,9 +317,13 @@
     color: inherit;
     font-size: $type-size-5;
     text-decoration: none;
+  }
 
-    &:hover {
-      text-decoration: underline;
-    }
+  .author__email {
+    white-space: normal;
+  }
+
+  a:hover {
+    text-decoration: underline;
   }
 }
