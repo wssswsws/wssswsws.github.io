@@ -51,4 +51,6 @@ A few things I've worked on:
 
 One resource I've enjoyed is [Lectures on AI for Mathematics](https://arxiv.org/abs/2604.11504).
 
-You can find me on [GitHub](https://github.com/wssswsws) and [LinkedIn](https://www.linkedin.com/in/steve-shi-wang), or reach me by [email](mailto:stevew29@sas.upenn.edu).
+You can find me on [GitHub](https://github.com/wssswsws) and [LinkedIn](https://www.linkedin.com/in/steve-shi-wang).
+
+Email: stevew29 [at] sas upenn edu

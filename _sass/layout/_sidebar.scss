@@ -307,6 +307,13 @@
     white-space: nowrap;
   }
 
+  .author__email {
+    white-space: normal;
+    margin-bottom: 5px;
+    padding: 2px 5px 2px 0;
+    font-size: $type-size-5;
+  }
+
   a {
     display: block;
     margin-bottom: 5px;
