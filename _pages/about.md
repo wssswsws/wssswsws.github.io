@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I'm Steve, a second-year undergraduate studying mathematics and computer science at the University of Pennsylvania. Mathematics is a long-term interest of mine. I'm particularly interested in AI infrastructure, multimodal AI, and how AI can support mathematical research.
 
-I currently work with MiraclePlus on technical talent research and collaborate with researchers at Penn Dental Medicine on clinical data analysis. Previously, I worked on machine learning for genetics and generative image modeling at the Children's Hospital of Philadelphia through [PURM](https://curf.upenn.edu/content/penn-undergraduate-research-mentoring-program-purm), and on an iMessage-based career assistant at Franklink.
+I currently work with MiraclePlus on technical talent research and collaborate with researchers at Penn Dental Medicine on clinical data analysis. Previously, I worked on machine learning for genetics and generative image modeling at the Children's Hospital of Philadelphia through [PURM](https://curf.upenn.edu/content/penn-undergraduate-research-mentoring-program-purm), and worked as a software engineer on an iMessage-based career assistant at Franklink.
 
 Outside of school and work, I enjoy making cocktails, playing guitar, and hiking. I also build small tools around the things I'm curious about, from course discussions to cocktail recipes.
 
