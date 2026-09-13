@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Steve Wang"
 title_separator          : "-"
 name                     : &name "Steve Wang"
-description              : &description "Steve Wang — undergraduate student."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Steve Wang — mathematics and computer science at the University of Pennsylvania."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://steve-wang.com # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,11 +26,11 @@ author:
   avatar           : "photo-clean.jpg"
   name             : "Steve Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Undergraduate student"
+  bio              : "Math & CS undergraduate at Penn"
   location         :
   employer         :
   uri              : # URL
-  email            :
+  email            : "stevew29@sas.upenn.edu"
 
   # Academic websites
   academia         : # URL
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "steve-shi-wang"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
