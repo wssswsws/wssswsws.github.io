@@ -12,6 +12,8 @@ Hi, I'm Steve, a second-year undergraduate studying mathematics and computer sci
 
 I currently work with MiraclePlus on technical talent research and collaborate with researchers at Penn Dental Medicine on clinical data analysis. Previously, I worked on machine learning for genetics and generative image modeling at the Children's Hospital of Philadelphia through [PURM](https://curf.upenn.edu/content/penn-undergraduate-research-mentoring-program-purm), and worked as a software engineer on an iMessage-based career assistant at Franklink.
 
+This semester (Fall 2026), I'm taking [MATH 3600: Real Analysis](https://www2.math.upenn.edu/~ancoop/3600HW/), [CIS 5480: Operating Systems Design and Implementation](https://www.engineering.upenn.edu/~cis5480/26fa/), [CIS 6220: Deep Learning at Scale](https://ungarl.github.io/CIS6220/), [CIS 7000: Multi-Modal AI](https://cis7000-fall26.thelabone.org/), and [CIS 7000: Operating Systems for Datacenters](https://joshfried.io/cis7000fa26/). You can also see [the courses I've taken in previous semesters](/coursework/).
+
 Outside of school and work, I enjoy making cocktails, playing guitar, and hiking. I also build small tools around the things I'm curious about, from course discussions to cocktail recipes.
 
 ## Experience
