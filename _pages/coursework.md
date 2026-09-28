@@ -1,7 +1,7 @@
 ---
 permalink: /coursework/
 title: "Past Coursework"
-author_profile: true
+author_profile: false
 excerpt: "Courses Steve Wang has taken at the University of Pennsylvania."
 ---
 

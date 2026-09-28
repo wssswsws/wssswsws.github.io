@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="title description">
+  <title id="title">Under construction</title>
+  <desc id="description">A neutral preview image reading Under construction.</desc>
+  <rect width="800" height="500" fill="#f4f2ec"/>
+  <rect x="24" y="24" width="752" height="452" rx="14" fill="none" stroke="#c8c2b7" stroke-width="2"/>
+  <path d="M300 212h200M300 224h200" stroke="#b8afa1" stroke-width="2"/>
+  <text x="400" y="282" text-anchor="middle" fill="#47413a" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="700" letter-spacing="2">UNDER CONSTRUCTION</text>
+  <path d="M300 315h200" stroke="#b8afa1" stroke-width="2"/>
+</svg>

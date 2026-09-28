@@ -2,7 +2,7 @@
 layout: single
 title: "Projects & Experiments"
 permalink: /projects/
-author_profile: true
+author_profile: false
 ---
 
 A collection of software projects, research experiments, and tools for everyday problems. Some are ongoing explorations and prototypes.

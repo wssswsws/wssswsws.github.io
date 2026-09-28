@@ -34,6 +34,15 @@
   }
 }
 
+#main.main--centered .page {
+  float: none;
+  width: min(100%, 850px);
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 0;
+  padding-right: 0;
+}
+
 .page__title {
   margin-top: 0;
   line-height: 1;

@@ -1,0 +1,50 @@
+---
+layout: default
+---
+
+<div id="main" class="blog-shell blog-shell--{{ page.blog_view | default: 'post' }}">
+  <main class="blog-main" id="content">
+    <header class="blog-header">
+      {% if page.blog_view == 'post' %}
+        <a class="blog-back" href="{{ page.back_url | default: '/blog/' }}">← {{ page.back_label | default: 'All articles' }}</a>
+      {% endif %}
+      <p class="blog-eyebrow">{% if page.blog_view == 'index' %}Writing{% else %}Article{% endif %}</p>
+      <h1>{{ page.title | escape }}</h1>
+      {% if page.blog_view == 'post' %}
+        <div class="blog-meta">
+          <time datetime="{{ page.updated_on | date: '%Y-%m-%d' }}">Updated {{ page.updated_on | date: '%B %-d, %Y' }}</time>
+          <span class="blog-status">Under construction</span>
+        </div>
+      {% endif %}
+    </header>
+
+    <div class="blog-body">
+      {{ content }}
+    </div>
+
+    {% if page.blog_view == 'index' %}
+      <section class="blog-list" aria-label="Articles">
+        {% for entry in site.data.blog %}
+          <article class="blog-list__item">
+            <a class="blog-list__image" href="{{ entry.url }}" aria-label="View {{ entry.title | escape }}">
+              <img src="{{ entry.image }}" alt="{{ entry.image_alt | escape }}" width="320" height="200" loading="lazy">
+            </a>
+            <div class="blog-list__copy">
+              <div class="blog-meta">
+                <time datetime="{{ entry.updated_on | date: '%Y-%m-%d' }}">{{ entry.updated_on | date: '%B %-d, %Y' }}</time>
+                <span class="blog-status">Under construction</span>
+              </div>
+              <h2><a href="{{ entry.url }}">{{ entry.title | escape }}</a></h2>
+              <p>{{ entry.summary | escape }}</p>
+              <a class="blog-read" href="{{ entry.url }}">View page <span aria-hidden="true">→</span></a>
+            </div>
+          </article>
+        {% endfor %}
+      </section>
+    {% else %}
+      <nav class="blog-endnav" aria-label="Article navigation">
+        <a href="{{ page.back_url | default: '/blog/' }}">← {{ page.back_label | default: 'All articles' }}</a>
+      </nav>
+    {% endif %}
+  </main>
+</div>
